@@ -43,13 +43,13 @@ If you can write it without a library, you actually understand it.
 
 ```
 ml-from-scratch/
-├── linear_regression.py
-├── logistic_regression.py
-├── knn.py
-├── svm.py
-├── naive_bayes.py
-└── perceptron.py
-└── pca.py
+├── linear_regression.ipynb
+├── logistic_regression.ipynb
+├── knn.ipynb
+├── svm.ipynb
+├── naive_bayes.ipynb
+└── perceptron.ipynb
+└── pca.ipynb
 └── README.md
 ```
 
