@@ -14,7 +14,7 @@ Built to develop real algorithmic intuition, not just API familiarity.
 |---|---|---|
 | Linear Regression | Regression | Gradient descent, MSE loss |
 | Logistic Regression | Classification | Sigmoid, BCE loss, decision boundary |
-| K-Nearest Neighbors | Classification | Distance metrics, lazy learning |
+| K-Nearest Neighbors | Classification and Regression | Distance metrics, lazy learning |
 | Support Vector Machine | Classification | Hinge loss, margin maximization |
 | Naive Bayes | Classification | Bayes theorem, conditional probability |
 | Perceptron | Classification | Step activation, weight update rule |
