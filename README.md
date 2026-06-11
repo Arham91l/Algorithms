@@ -43,15 +43,13 @@ If you can write it without a library, you actually understand it.
 
 ```
 ml-from-scratch/
-├── supervised/
-│   ├── linear_regression.py
-│   ├── logistic_regression.py
-│   ├── knn.py
-│   ├── svm.py
-│   ├── naive_bayes.py
-│   └── perceptron.py
-├── unsupervised/
-│   └── pca.py
+├── linear_regression.py
+├── logistic_regression.py
+├── knn.py
+├── svm.py
+├── naive_bayes.py
+└── perceptron.py
+└── pca.py
 └── README.md
 ```
 
@@ -68,15 +66,6 @@ ml-from-scratch/
 
 ---
 
-## Coming Soon
-
-- [ ] Decision Tree (Gini + entropy split)
-- [ ] K-Means Clustering
-- [ ] Neural Network (numpy only — forward pass + backpropagation)
-- [ ] Attention Mechanism (scaled dot product)
-
----
-
 ## Stack
 
 - Python 3.x
@@ -86,5 +75,5 @@ ml-from-scratch/
 
 ## Connect
 
-Built by Arham as part of an ML internship portfolio.
+Built by Arham 
 Feel free to explore, fork, or reach out.
