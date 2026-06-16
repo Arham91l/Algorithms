@@ -55,31 +55,6 @@ If you can write it without a library, you actually understand it.
 
 ---
 
-## Structure
-
-```
-ml-from-scratch/
-├── supervised/
-│   ├── linear_regression.py
-│   ├── logistic_regression.py
-│   ├── knn.py
-│   ├── svm.py
-│   ├── naive_bayes.py
-│   └── perceptron.py
-├── unsupervised/
-│   └── pca.py
-├── deep_learning/
-│   └── neural_network.py
-├── time_series/
-│   ├── ar.py
-│   ├── ma.py
-│   ├── arima.py
-│   ├── arch.py
-│   └── garch.py
-└── README.md
-```
-
----
 
 ## Key Concepts Covered
 
@@ -93,14 +68,6 @@ ml-from-scratch/
 - **Stationarity & differencing** — making time series suitable for modeling (ARIMA)
 - **Autocorrelation structure** — ACF/PACF-driven order selection for AR and MA
 - **Conditional volatility** — modeling time-varying variance with ARCH/GARCH
-
----
-
-## Coming Soon
-
-- [ ] Decision Tree (Gini + entropy split)
-- [ ] K-Means Clustering
-- [ ] Attention Mechanism (scaled dot product)
 
 ---
 
